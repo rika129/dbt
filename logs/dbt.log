@@ -1,0 +1,54 @@
+[0m09:32:07.808577 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CA293E3710>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CA293E3E90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CA293E2C50>]}
+
+
+============================== 09:32:07.812664 | 4ef331a9-2c96-480a-bdd4-31bad11c9a74 ==============================
+[0m09:32:07.812664 [info ] [MainThread]: Running with dbt=1.7.0
+[0m09:32:07.812664 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\rikag\\.dbt', 'debug': 'False', 'version_check': 'True', 'log_path': 'logs', 'warn_error': 'None', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'introspect': 'True', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'invocation_command': 'dbt init', 'send_anonymous_usage_stats': 'True'}
+[0m09:32:11.787246 [debug] [MainThread]: Starter project path: C:\Users\rikag\Desktop\dbt-dev\dbt-env\Lib\site-packages\dbt\include\starter_project
+[0m09:32:11.813459 [info ] [MainThread]: 
+Your new dbt project "bde" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m09:32:11.813459 [info ] [MainThread]: Setting up your profile.
+[0m09:32:27.725506 [debug] [MainThread]: Command `dbt init` succeeded at 09:32:27.725506 after 19.98 seconds
+[0m09:32:27.727505 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CA28C93D90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CA22AF9990>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CA28841710>]}
+[0m09:32:27.727941 [debug] [MainThread]: Flushing usage events
+[0m09:32:36.999789 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027536BC8390>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027536BB29D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027536BB3F50>]}
+
+
+============================== 09:32:36.999789 | 16bc9976-d290-49d9-8b01-24ee62056064 ==============================
+[0m09:32:36.999789 [info ] [MainThread]: Running with dbt=1.7.0
+[0m09:32:36.999789 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\rikag\\.dbt', 'debug': 'False', 'version_check': 'True', 'log_path': 'logs', 'fail_fast': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'introspect': 'True', 'invocation_command': 'dbt init', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m09:32:45.494185 [debug] [MainThread]: Starter project path: C:\Users\rikag\Desktop\dbt-dev\dbt-env\Lib\site-packages\dbt\include\starter_project
+[0m09:32:45.510619 [info ] [MainThread]: 
+Your new dbt project "bde1" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m09:32:45.512626 [info ] [MainThread]: Setting up your profile.
+[0m09:33:09.929402 [debug] [MainThread]: Command `dbt init` succeeded at 09:33:09.929402 after 32.98 seconds
+[0m09:33:09.935993 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002753602E3D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002753602C150>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027535DC3990>]}
+[0m09:33:09.935993 [debug] [MainThread]: Flushing usage events
